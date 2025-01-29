@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-Hi, my name is Lucas Martins i'm a student of computer science, currently learning about some Frontend stuff (vue.js and Typescript)
+Hi, my name is Lucas Martins i'm a student of computer science, currently learning about some Frontend stuff (react and Typescript)
 
 #### Contacts:
 ---
